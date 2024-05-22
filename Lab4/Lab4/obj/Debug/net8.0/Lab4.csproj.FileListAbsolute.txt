@@ -1,0 +1,14 @@
+D:\H\c#2\test\Lab4\Lab4\bin\Debug\net8.0\Lab4.exe
+D:\H\c#2\test\Lab4\Lab4\bin\Debug\net8.0\Lab4.deps.json
+D:\H\c#2\test\Lab4\Lab4\bin\Debug\net8.0\Lab4.runtimeconfig.json
+D:\H\c#2\test\Lab4\Lab4\bin\Debug\net8.0\Lab4.dll
+D:\H\c#2\test\Lab4\Lab4\bin\Debug\net8.0\Lab4.pdb
+D:\H\c#2\test\Lab4\Lab4\obj\Debug\net8.0\Lab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\H\c#2\test\Lab4\Lab4\obj\Debug\net8.0\Lab4.AssemblyInfoInputs.cache
+D:\H\c#2\test\Lab4\Lab4\obj\Debug\net8.0\Lab4.AssemblyInfo.cs
+D:\H\c#2\test\Lab4\Lab4\obj\Debug\net8.0\Lab4.csproj.CoreCompileInputs.cache
+D:\H\c#2\test\Lab4\Lab4\obj\Debug\net8.0\Lab4.dll
+D:\H\c#2\test\Lab4\Lab4\obj\Debug\net8.0\refint\Lab4.dll
+D:\H\c#2\test\Lab4\Lab4\obj\Debug\net8.0\Lab4.pdb
+D:\H\c#2\test\Lab4\Lab4\obj\Debug\net8.0\Lab4.genruntimeconfig.cache
+D:\H\c#2\test\Lab4\Lab4\obj\Debug\net8.0\ref\Lab4.dll
